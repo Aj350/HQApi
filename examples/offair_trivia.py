@@ -23,3 +23,5 @@ while True:
         print('Coins: ' + str(answer['gameSummary']['coinsEarned']))
         print('Points: ' + str(answer['gameSummary']['pointsEarned']))
         break
+
+     client.run("NjI3OTE4MTMyOTU0MjY3NjY5.XZDopg.23NLCpyGs5KEHlhD3p2o3vQejQ4")   
